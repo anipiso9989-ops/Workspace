@@ -8,7 +8,7 @@ A fast, keyboard-first note-taking app with an infinite canvas. Everything runs 
 2. Open it in your browser.
 3. Press **N** or double-click empty space to write a note.
 
-## Features
+## Some Features
 
 - Live Markdown editing, checklists, code, and KaTeX math.
 - Embedded images with captions and proportional resizing.
@@ -18,5 +18,3 @@ A fast, keyboard-first note-taking app with an infinite canvas. Everything runs 
 - Thinkr, Markdown, and PNG exports; light and dark themes.
 
 Your work is saved in this browser Export `.cnvx` backups to keep a portable copy or move between devices. Everything is local.
-
-See [guide.md](guide.md) for up-to-date controls and usage.
